@@ -4,7 +4,7 @@ import logo from "./images/gk-logo.jpg"
 export default function SideNav() {
   return (
     <div>
-    <section id="sideNav" className="position-fixed">
+    <section id="sideNav" className="position-fixed font-head">
         <div>
         <img src={logo} alt="img" height="200px" width="200px" />
         </div>
