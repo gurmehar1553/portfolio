@@ -1,5 +1,8 @@
 body{
-  background-color: #272525 !important;
+  /* background-color: #272525 !important; */
+  background: url('./components/images/bg.jpg');
+  background-position: right;
+  overflow-x: hidden;
 }
 span{
   color: #cb0b71;
