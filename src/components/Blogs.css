@@ -1,0 +1,25 @@
+.blog-card{
+    position: relative;
+    box-shadow: 2px 2px 20px 0px #676666;
+}
+
+.link-div{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    visibility: hidden;
+}
+
+.blog-card:hover .card-inner{
+    opacity: 0.3;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.blog-card:hover{
+    box-shadow: 2px 2px 20px 0px #bba6aa;
+}
+
+.blog-card:hover .link-div{
+    visibility: visible;
+}

@@ -1,0 +1,22 @@
+.input-box{
+    background: transparent !important;
+    color: white !important;
+    border: none !important;
+    outline: none !important;
+    border-bottom: 1px solid #fff !important;
+} 
+
+.input-box:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.button-send{
+    background-color: #cb0b71;
+    color: #fff;
+    transition: 0.3s;
+}
+
+.button-send:hover{
+    background-color: #e490bd;
+}

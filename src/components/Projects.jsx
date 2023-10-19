@@ -9,7 +9,7 @@ import shop from './images/shop.png'
 
 export default function Projects() {
   return (
-    <div id="projects text-light">
+    <div id='projects'>
       <h1 className='font-head'><span>Projects</span></h1>
       <div className='text-light d-flex flex-row justify-content-around flex-wrap p-5'>
         <div className="flip-card col-md-6">

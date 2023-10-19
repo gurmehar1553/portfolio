@@ -14,8 +14,8 @@ export default function SideNav() {
             <a href="#about" >About</a>
             <a href="#skills" >Skills</a>
             <a href="#projects">Projects</a>
-            <a href="">Blogs</a>
-            <a href="">Contact</a>
+            <a href="#blogs">Blogs</a>
+            <a href="#contact">Contact</a>
         </nav>
         </div>
     </section>

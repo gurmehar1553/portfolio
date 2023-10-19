@@ -1,5 +1,5 @@
 import React from 'react'
-import myImage from "./images/gurmehar2.jpg"
+import myImage from "./images/myPic.png"
 // import Particles from 'react-tsparticles'
 // import { loadFull } from "tsparticles"; 
 import './Home.css'
@@ -19,7 +19,7 @@ export default function Home() {
           </div>
         </div>
         <div className="col-md-6">
-          <img src={myImage} alt="my-img" className="rounded-circle" height="300px" width="300px" />
+          <img src={myImage} alt="my-img" className="rounded-circle" height="300px" />
         </div>
       </div>
     </div>
